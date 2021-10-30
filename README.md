@@ -1,4 +1,4 @@
-- 👋 This repository contains figures and tables for my thesis on Staphylococcus aurues mastitis in dairy cattle in NZ.
+- 👋 This repository contains figures and tables for my thesis on _Staphylococcus aureus_ mastitis in dairy cattle in NZ.
 - You can reach me on my email jabinnesvet@gmail.com for further information
 
 <!---
